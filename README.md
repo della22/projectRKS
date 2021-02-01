@@ -1,6 +1,6 @@
 # projectRKS
 
-Tugas project FRONT END ini saya buat menggunakan bahasa HTML, CSS, dan JAVASCRIPT. 
+Tugas project FRONT END ini saya buat menggunakan bahasa HTML, CSS, dan JAVASCRIPT. <br>
 Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. 
 Hanya saja pekerjaan UTS masih belum maksimal, sehingga pada UAS ini saya memaksimalkan hasilnya
 
@@ -10,6 +10,7 @@ https://drive.google.com/drive/u/0/folders/1iVLCML1vU0SIKO1wLJJbPmff78kLZfF0
 ------------------------------------------
  CREDITS
 ------------------------------------------
+Dan terdapat beberapa referensi yang saya gunakan untuk membangun project ini, yaitu :
 - Bootstrap 4     -    https://getbootstrap.com
 - Font Awesome    -    https://fontawesome.com
 - Lightbox2       -    https://lokeshdhakar.com/projects/lightbox2/
